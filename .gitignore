@@ -4,5 +4,6 @@ venv
 # Random files
 .DS_Store
 .ipynb_checkpoints
+.env
 
 *.geojson
